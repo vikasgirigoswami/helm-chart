@@ -3,12 +3,22 @@ entries:
   generic-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-12-23T15:16:04.433473+05:30"
+    created: "2025-12-23T15:31:25.163142+05:30"
     description: A Helm chart for Kubernetes
-    digest: 117b69b5ecb9f0153cb6ddbe4baf734b02929d3ccf4a7b07fb64c1773d08f2e7
+    digest: 2127e059cc9bdac9055048cbc04cadcaa33845af478992c99d6ed9ab1f6daa08
     name: generic-helm-chart
     type: application
     urls:
-    - https://vikasgirigoswami.github.io/helm-chart/generic-helm-chart-0.1.1.tgz
-    version: 0.1.1
-generated: "2025-12-23T15:16:04.43288+05:30"
+    - https://vikasgirigoswami.github.io/helm-chart/generic-helm-chart-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-12-23T15:31:25.1629+05:30"
+    description: A Helm chart for Kubernetes
+    digest: c1cb0560e0a7c0caa329b5b20cc1827ffcb61a90804c1b520d82d44fc2db220b
+    name: generic-helm-chart
+    type: application
+    urls:
+    - https://vikasgirigoswami.github.io/helm-chart/generic-helm-chart-0.1.2.tgz
+    version: 0.1.2
+generated: "2025-12-23T15:31:25.161766+05:30"
