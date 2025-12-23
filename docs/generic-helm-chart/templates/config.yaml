@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: db-config1
+  namespace: 2-assignment
+data:
+  DB_HOST: postgres1
+  DB_PORT: "5432"
